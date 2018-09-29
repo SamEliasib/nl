@@ -22,7 +22,7 @@ p {
 
 }
 
-.port h1 {
+.port p {
 	letter-spacing: .5em;
 	display: inline-block;
 	border: 4px double rgba(255,255,255,.25);
