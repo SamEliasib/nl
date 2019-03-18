@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+p {
+    color:#666;
+    font-size:14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.sh {
+    color: #625290;
+}
+
+.sp {
+    color: #ABA2D9;
+}
